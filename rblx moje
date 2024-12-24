@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simple Educational Website</title>
+    <link rel="stylesheet" href="style.css"> <!-- Link to external CSS -->
+</head>
+<body>
+
+    <!-- Header Section -->
+    <header>
+        <div class="container">
+            <h1>Welcome to Our Educational Website</h1>
+            <p>Your go-to place for learning!</p>
+        </div>
+    </header>
+
+    <!-- Main Content Section -->
+    <main>
+        <div class="container">
+            <section>
+                <h2>About Us</h2>
+                <p>We provide high-quality educational content to help you learn new skills and grow in your knowledge.</p>
+            </section>
+
+            <section>
+                <h2>Our Courses</h2>
+                <ul>
+                    <li>Web Development</li>
+                    <li>Data Science</li>
+                    <li>Design Basics</li>
+                    <li>Machine Learning</li>
+                </ul>
+            </section>
+
+            <section>
+                <h2>Contact Us</h2>
+                <p>If you have any questions, feel free to reach out to us via email at <a href="mailto:info@educate.com">info@educate.com</a>.</p>
+            </section>
+        </div>
+    </main>
+
+    <!-- Footer Section -->
+    <footer>
+        <div class="container">
+            <p>&copy; 2024 Educational Website. All Rights Reserved.</p>
+        </div>
+    </footer>
+
+</body>
+</html>
